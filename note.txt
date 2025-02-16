@@ -1,0 +1,6 @@
+<div> </div ---> Divison
+<style> </style>
+<section> </section>
+to make a comment you just need to click ctrl + /
+Margin  = Takes Space outside of the box
+Padding = Takes Space inside of the box
